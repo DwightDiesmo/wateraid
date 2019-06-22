@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>http://example.org/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 03 Oct 2018 16:43:47 -0700</lastBuildDate>
+    
+	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Bhutan</title>
+      <link>http://example.org/countries/bhutan/</link>
+      <pubDate>Wed, 03 Oct 2018 16:43:47 -0700</pubDate>
+      
+      <guid>http://example.org/countries/bhutan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cambodia</title>
+      <link>http://example.org/countries/cambodia/</link>
+      <pubDate>Wed, 03 Oct 2018 16:43:47 -0700</pubDate>
+      
+      <guid>http://example.org/countries/cambodia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Congo</title>
+      <link>http://example.org/countries/congo/</link>
+      <pubDate>Wed, 03 Oct 2018 16:43:47 -0700</pubDate>
+      
+      <guid>http://example.org/countries/congo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ethiopia</title>
+      <link>http://example.org/countries/ethiopia/</link>
+      <pubDate>Wed, 03 Oct 2018 16:43:47 -0700</pubDate>
+      
+      <guid>http://example.org/countries/ethiopia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ghana</title>
+      <link>http://example.org/countries/ghana/</link>
+      <pubDate>Wed, 03 Oct 2018 16:43:47 -0700</pubDate>
+      
+      <guid>http://example.org/countries/ghana/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mexico</title>
+      <link>http://example.org/countries/mexico/</link>
+      <pubDate>Wed, 03 Oct 2018 16:43:47 -0700</pubDate>
+      
+      <guid>http://example.org/countries/mexico/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nepal</title>
+      <link>http://example.org/countries/nepal/</link>
+      <pubDate>Wed, 03 Oct 2018 16:43:47 -0700</pubDate>
+      
+      <guid>http://example.org/countries/nepal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nigeria</title>
+      <link>http://example.org/countries/nigeria/</link>
+      <pubDate>Wed, 03 Oct 2018 16:43:47 -0700</pubDate>
+      
+      <guid>http://example.org/countries/nigeria/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pakistan</title>
+      <link>http://example.org/countries/pakistan/</link>
+      <pubDate>Wed, 03 Oct 2018 16:43:47 -0700</pubDate>
+      
+      <guid>http://example.org/countries/pakistan/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

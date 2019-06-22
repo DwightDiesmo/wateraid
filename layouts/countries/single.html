@@ -1,0 +1,27 @@
+{{ define "main" }}
+
+<div class="card-group">
+  <div class="card">
+    <img
+      src="{{ .Params.countryImg }}"
+      class="card-img w-100"
+      alt="Mexico Water Source"
+    />
+  </div>
+
+  <div class="card text-center">
+    <div class="card-body">
+      <h3 class="card-title">{{ .Title }}</h3>
+      <h5 class="card-text">{{ .Params.countryDesc }}</h5>
+      <div class="py-2"></div>
+
+      <a href="{{ .Params.charityLink }}" class="">
+        <button class="btn btn-lg btn-primary ">
+          Donate Here
+        </button>
+      </a>
+    </div>
+  </div>
+</div>
+
+{{ end }}
